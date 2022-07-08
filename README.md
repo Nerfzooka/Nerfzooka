@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 👯 I'm a contributor.
 - ✨ So far I'm just correcting typos.
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nerfzooka)
